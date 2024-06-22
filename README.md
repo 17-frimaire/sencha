@@ -1,0 +1,2 @@
+# sencha
+Emacs-related files
